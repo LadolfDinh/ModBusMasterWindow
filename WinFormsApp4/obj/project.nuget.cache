@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ky5DFeD+auA=",
+  "success": true,
+  "projectFilePath": "D:\\iot\\old_modbus_master\\WinFormsApp4\\WinFormsApp4\\WinFormsApp4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cudin\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.2\\microsoft.win32.systemevents.9.0.2.nupkg.sha512",
+    "C:\\Users\\cudin\\.nuget\\packages\\runtime.android-arm.runtime.native.system.io.ports\\9.0.2\\runtime.android-arm.runtime.native.system.io.ports.9.0.2.nupkg.sha512",
+    "C:\\Users\\cudin\\.nuget\\packages\\runtime.android-arm64.runtime.native.system.io.ports\\9.0.2\\runtime.android-arm64.runtime.native.system.io.ports.9.0.2.nupkg.sha512",
+    "C:\\Users\\cudin\\.nuget\\packages\\runtime.android-x64.runtime.native.system.io.ports\\9.0.2\\runtime.android-x64.runtime.native.system.io.ports.9.0.2.nupkg.sha512",
+    "C:\\Users\\cudin\\.nuget\\packages\\runtime.android-x86.runtime.native.system.io.ports\\9.0.2\\runtime.android-x86.runtime.native.system.io.ports.9.0.2.nupkg.sha512",
+    "C:\\Users\\cudin\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\9.0.2\\runtime.linux-arm.runtime.native.system.io.ports.9.0.2.nupkg.sha512",
+    "C:\\Users\\cudin\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\9.0.2\\runtime.linux-arm64.runtime.native.system.io.ports.9.0.2.nupkg.sha512",
+    "C:\\Users\\cudin\\.nuget\\packages\\runtime.linux-bionic-arm64.runtime.native.system.io.ports\\9.0.2\\runtime.linux-bionic-arm64.runtime.native.system.io.ports.9.0.2.nupkg.sha512",
+    "C:\\Users\\cudin\\.nuget\\packages\\runtime.linux-bionic-x64.runtime.native.system.io.ports\\9.0.2\\runtime.linux-bionic-x64.runtime.native.system.io.ports.9.0.2.nupkg.sha512",
+    "C:\\Users\\cudin\\.nuget\\packages\\runtime.linux-musl-arm.runtime.native.system.io.ports\\9.0.2\\runtime.linux-musl-arm.runtime.native.system.io.ports.9.0.2.nupkg.sha512",
+    "C:\\Users\\cudin\\.nuget\\packages\\runtime.linux-musl-arm64.runtime.native.system.io.ports\\9.0.2\\runtime.linux-musl-arm64.runtime.native.system.io.ports.9.0.2.nupkg.sha512",
+    "C:\\Users\\cudin\\.nuget\\packages\\runtime.linux-musl-x64.runtime.native.system.io.ports\\9.0.2\\runtime.linux-musl-x64.runtime.native.system.io.ports.9.0.2.nupkg.sha512",
+    "C:\\Users\\cudin\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\9.0.2\\runtime.linux-x64.runtime.native.system.io.ports.9.0.2.nupkg.sha512",
+    "C:\\Users\\cudin\\.nuget\\packages\\runtime.maccatalyst-arm64.runtime.native.system.io.ports\\9.0.2\\runtime.maccatalyst-arm64.runtime.native.system.io.ports.9.0.2.nupkg.sha512",
+    "C:\\Users\\cudin\\.nuget\\packages\\runtime.maccatalyst-x64.runtime.native.system.io.ports\\9.0.2\\runtime.maccatalyst-x64.runtime.native.system.io.ports.9.0.2.nupkg.sha512",
+    "C:\\Users\\cudin\\.nuget\\packages\\runtime.native.system.io.ports\\9.0.2\\runtime.native.system.io.ports.9.0.2.nupkg.sha512",
+    "C:\\Users\\cudin\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\9.0.2\\runtime.osx-arm64.runtime.native.system.io.ports.9.0.2.nupkg.sha512",
+    "C:\\Users\\cudin\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\9.0.2\\runtime.osx-x64.runtime.native.system.io.ports.9.0.2.nupkg.sha512",
+    "C:\\Users\\cudin\\.nuget\\packages\\system.drawing.common\\9.0.2\\system.drawing.common.9.0.2.nupkg.sha512",
+    "C:\\Users\\cudin\\.nuget\\packages\\system.io.ports\\9.0.2\\system.io.ports.9.0.2.nupkg.sha512",
+    "C:\\Users\\cudin\\.nuget\\packages\\system.speech\\9.0.4\\system.speech.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
